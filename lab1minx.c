@@ -2,7 +2,10 @@
 
 int main(){
 
-int  a = 1 , b =2;
+int  a,  b;
+
+scanf("%d",&a);
+scanf("%d",&b);
 
 if (a>b){
 	printf("%d",a);
